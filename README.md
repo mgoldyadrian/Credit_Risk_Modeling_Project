@@ -1,4 +1,4 @@
-# Hotel Cancellation Booking Prediction Project
+# Credit Risk Modeling Project
 
 ## Introduction
 This data set contains credit history information of each debtor such as age, income, home ownership status, length of employment, purpose of loan, loan amount, loan grade, loan status, etc.
